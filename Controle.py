@@ -129,16 +129,20 @@ if __name__ == '__main__':
         ctrl.carregarBens(arq_bem.format(uf))
     cron.para()
     tempoBem = cron.tempo_gasto()
-
-    print(
-        "Tempo gasto no carregamento dos dados dos candidatos: {:.3f}s".format(
-            tempoCand))
-    print(
-        "Tempo gasto no carregamento dos dados dos bens dos candidatos: {:.3f}s\n".format(tempoBem))
+    frase = "Tempo gasto no carregamento dos dados dos "
+    frase_cand = "{}candidatos: {:.3f}s".format(frase, tempoCand)
+    frase_bens = "{}bens dos candidatos: {:.3f}s\n".format(frase, tempoBem)
+    arquivo = open("saida.txt", "a")
+    arquivo.write(frase_cand+"\n")
+    arquivo.write(frase_bens+"\n")
+    print(frase_cand)
+    print(frase_bens)
 
     i = 0
     for c in ctrl.candidatos():
+        arquivo.write(str(c)+"\n")
         print(c)
         if i > 4:
             break
         i += 1
+    arquivo.close()
