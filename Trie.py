@@ -9,7 +9,9 @@ Autor:  Isac Tomaz da Silva
 Email:  its@cin.ufpe.br
 Data:   2018-05-16
 
-Descrição:  Terceiro projeto de Algoritmos.
+Descrição:  Terceiro projeto de Algoritmos. Foi implementada a árvore Trie com
+            objetivo de reduzir o tempo gasto na inserção dos bens dos
+            candidatos.
 
 Anexo:  https://github.com/IsacTS/Projeto03
 
@@ -31,6 +33,11 @@ class Node(object):
 
 class Trie(object):
     def __init__(self, dic=None):
+        """Inicializa o no raiz e o tamanho.
+
+        Cria um nó raiz e inicializa o tamanho da árvore como zero. Se for
+        passado como parâmetro um dicionário inseri as chaves e os seus
+        respectivos valores na árvore de prefixo."""
         self.raiz = Node()
         self.tamanho = 0
         if dic is not None and type(dic) is dict:
