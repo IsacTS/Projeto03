@@ -53,7 +53,8 @@ class Trie(object):
             if no.filhos[index(caractere)] is None:
                 no.filhos[index(caractere)] = Node()
             no = no.filhos[index(caractere)]
-        self.tamanho += 1
+        if not no.end:
+            self.tamanho += 1
         no.value = item
         no.end = True
 
@@ -81,11 +82,8 @@ class Trie(object):
         return self.buscar(key)
 
     def __setitem__(self, key, value):
-        """Troca um value de Trie.
+        """Cria ou troca um value de Trie.
 
-        Substituí um valor da árvore de prefixo através da chave fornecida.
-        O self.tamanho -= 1, é porque não função inserir adiciona mais 1 no
-        tamanho, para o tamanho continuar o mesmo já que só está sendo feito
-        apenas um alteração de valor."""
-        self.tamanho -= 1
+        Substituí um valor da árvore de prefixo através da chave fornecida,
+        se esse chave não exitir, cria essa chave fornecida para esse valor."""
         self.inserir(key, value)
