@@ -88,3 +88,371 @@ Depósito bancário em conta corrente no País: R$13.981,15
 Casa: R$111.049,13
 Veículo automotor terrestre: caminhão, automóvel, moto, etc.: R$24.293,00
 
+Tempo gasto no carregamento dos dados dos candidatos: 1.781s
+Tempo gasto no carregamento dos dados dos bens dos candidatos: 2.403s
+
+DR.JENILSON -- 65789 -- PC do B
+DEPUTADO ESTADUAL (AC)
+Resumo dos bens:
+Total declarado: R$120.000,00
+Bem relacionado com o exercício da atividade autônoma: R$70.000,00
+Veículo automotor terrestre: caminhão, automóvel, moto, etc.: R$50.000,00
+
+PROFESSORA CONCEIÇÃO -- 65555 -- PC do B
+DEPUTADO ESTADUAL (AC)
+Resumo dos bens:
+Total declarado: R$2.737.000,00
+Veículo automotor terrestre: caminhão, automóvel, moto, etc.: R$17.000,00
+Terreno: R$2.700.000,00
+Casa: R$20.000,00
+
+MIGUEL DA ROCHA -- 50123 -- PSOL
+DEPUTADO ESTADUAL (AC)
+Resumo dos bens:
+Total declarado: R$211.000,00
+Outros bens imóveis: R$200.000,00
+Veículo automotor terrestre: caminhão, automóvel, moto, etc.: R$11.000,00
+
+PEDRO TELES -- 50222 -- PSOL
+DEPUTADO ESTADUAL (AC)
+Resumo dos bens:
+Total declarado: R$60.000,00
+Outros bens imóveis: R$60.000,00
+
+LENILDA DE SOUZA -- 1311 -- PT
+DEPUTADO FEDERAL (AC)
+Resumo dos bens:
+Total declarado: R$0,00
+
+
+LÉO DO PT -- 1331 -- PT
+DEPUTADO FEDERAL (AC)
+Resumo dos bens:
+Total declarado: R$160.507,58
+Caderneta de poupança: R$11.184,30
+Depósito bancário em conta corrente no País: R$13.981,15
+Casa: R$111.049,13
+Veículo automotor terrestre: caminhão, automóvel, moto, etc.: R$24.293,00
+
+Tempo gasto no carregamento dos dados dos candidatos: 1.889s
+Tempo gasto no carregamento dos dados dos bens dos candidatos: 2.500s
+
+DR.JENILSON -- 65789 -- PC do B
+DEPUTADO ESTADUAL (AC)
+Resumo dos bens:
+Total declarado: R$120.000,00
+Veículo automotor terrestre: caminhão, automóvel, moto, etc.: R$50.000,00
+Bem relacionado com o exercício da atividade autônoma: R$70.000,00
+
+PROFESSORA CONCEIÇÃO -- 65555 -- PC do B
+DEPUTADO ESTADUAL (AC)
+Resumo dos bens:
+Total declarado: R$2.737.000,00
+Veículo automotor terrestre: caminhão, automóvel, moto, etc.: R$17.000,00
+Terreno: R$2.700.000,00
+Casa: R$20.000,00
+
+MIGUEL DA ROCHA -- 50123 -- PSOL
+DEPUTADO ESTADUAL (AC)
+Resumo dos bens:
+Total declarado: R$211.000,00
+Veículo automotor terrestre: caminhão, automóvel, moto, etc.: R$11.000,00
+Outros bens imóveis: R$200.000,00
+
+PEDRO TELES -- 50222 -- PSOL
+DEPUTADO ESTADUAL (AC)
+Resumo dos bens:
+Total declarado: R$60.000,00
+Outros bens imóveis: R$60.000,00
+
+LENILDA DE SOUZA -- 1311 -- PT
+DEPUTADO FEDERAL (AC)
+Resumo dos bens:
+Total declarado: R$0,00
+
+
+LÉO DO PT -- 1331 -- PT
+DEPUTADO FEDERAL (AC)
+Resumo dos bens:
+Total declarado: R$160.507,58
+Veículo automotor terrestre: caminhão, automóvel, moto, etc.: R$24.293,00
+Depósito bancário em conta corrente no País: R$13.981,15
+Caderneta de poupança: R$11.184,30
+Casa: R$111.049,13
+
+Tempo gasto no carregamento dos dados dos candidatos: 1.763s
+Tempo gasto no carregamento dos dados dos bens dos candidatos: 2.375s
+
+DR.JENILSON -- 65789 -- PC do B
+DEPUTADO ESTADUAL (AC)
+Resumo dos bens:
+Total declarado: R$120.000,00
+Veículo automotor terrestre: caminhão, automóvel, moto, etc.: R$50.000,00
+Bem relacionado com o exercício da atividade autônoma: R$70.000,00
+
+PROFESSORA CONCEIÇÃO -- 65555 -- PC do B
+DEPUTADO ESTADUAL (AC)
+Resumo dos bens:
+Total declarado: R$2.737.000,00
+Casa: R$20.000,00
+Terreno: R$2.700.000,00
+Veículo automotor terrestre: caminhão, automóvel, moto, etc.: R$17.000,00
+
+MIGUEL DA ROCHA -- 50123 -- PSOL
+DEPUTADO ESTADUAL (AC)
+Resumo dos bens:
+Total declarado: R$211.000,00
+Outros bens imóveis: R$200.000,00
+Veículo automotor terrestre: caminhão, automóvel, moto, etc.: R$11.000,00
+
+PEDRO TELES -- 50222 -- PSOL
+DEPUTADO ESTADUAL (AC)
+Resumo dos bens:
+Total declarado: R$60.000,00
+Outros bens imóveis: R$60.000,00
+
+LENILDA DE SOUZA -- 1311 -- PT
+DEPUTADO FEDERAL (AC)
+Resumo dos bens:
+Total declarado: R$0,00
+
+
+LÉO DO PT -- 1331 -- PT
+DEPUTADO FEDERAL (AC)
+Resumo dos bens:
+Total declarado: R$160.507,58
+Depósito bancário em conta corrente no País: R$13.981,15
+Casa: R$111.049,13
+Veículo automotor terrestre: caminhão, automóvel, moto, etc.: R$24.293,00
+Caderneta de poupança: R$11.184,30
+
+Tempo gasto no carregamento dos dados dos candidatos: 1.729s
+Tempo gasto no carregamento dos dados dos bens dos candidatos: 1.889s
+
+DR.JENILSON -- 65789 -- PC do B
+DEPUTADO ESTADUAL (AC)
+Resumo dos bens:
+Total declarado: R$120.000,00
+Veículo automotor terrestre: caminhão, automóvel, moto, etc.: R$50.000,00
+Bem relacionado com o exercício da atividade autônoma: R$70.000,00
+
+PROFESSORA CONCEIÇÃO -- 65555 -- PC do B
+DEPUTADO ESTADUAL (AC)
+Resumo dos bens:
+Total declarado: R$2.737.000,00
+Casa: R$20.000,00
+Veículo automotor terrestre: caminhão, automóvel, moto, etc.: R$17.000,00
+Terreno: R$2.700.000,00
+
+MIGUEL DA ROCHA -- 50123 -- PSOL
+DEPUTADO ESTADUAL (AC)
+Resumo dos bens:
+Total declarado: R$211.000,00
+Veículo automotor terrestre: caminhão, automóvel, moto, etc.: R$11.000,00
+Outros bens imóveis: R$200.000,00
+
+PEDRO TELES -- 50222 -- PSOL
+DEPUTADO ESTADUAL (AC)
+Resumo dos bens:
+Total declarado: R$60.000,00
+Outros bens imóveis: R$60.000,00
+
+LENILDA DE SOUZA -- 1311 -- PT
+DEPUTADO FEDERAL (AC)
+Resumo dos bens:
+Total declarado: R$0,00
+
+
+LÉO DO PT -- 1331 -- PT
+DEPUTADO FEDERAL (AC)
+Resumo dos bens:
+Total declarado: R$160.507,58
+Veículo automotor terrestre: caminhão, automóvel, moto, etc.: R$24.293,00
+Casa: R$111.049,13
+Depósito bancário em conta corrente no País: R$13.981,15
+Caderneta de poupança: R$11.184,30
+
+Tempo gasto no carregamento dos dados dos candidatos: 1.739s
+Tempo gasto no carregamento dos dados dos bens dos candidatos: 1.863s
+
+DR.JENILSON -- 65789 -- PC do B
+DEPUTADO ESTADUAL (AC)
+Resumo dos bens:
+Total declarado: R$120.000,00
+Bem relacionado com o exercício da atividade autônoma: R$70.000,00
+Veículo automotor terrestre: caminhão, automóvel, moto, etc.: R$50.000,00
+
+PROFESSORA CONCEIÇÃO -- 65555 -- PC do B
+DEPUTADO ESTADUAL (AC)
+Resumo dos bens:
+Total declarado: R$2.737.000,00
+Terreno: R$2.700.000,00
+Veículo automotor terrestre: caminhão, automóvel, moto, etc.: R$17.000,00
+Casa: R$20.000,00
+
+MIGUEL DA ROCHA -- 50123 -- PSOL
+DEPUTADO ESTADUAL (AC)
+Resumo dos bens:
+Total declarado: R$211.000,00
+Veículo automotor terrestre: caminhão, automóvel, moto, etc.: R$11.000,00
+Outros bens imóveis: R$200.000,00
+
+PEDRO TELES -- 50222 -- PSOL
+DEPUTADO ESTADUAL (AC)
+Resumo dos bens:
+Total declarado: R$60.000,00
+Outros bens imóveis: R$60.000,00
+
+LENILDA DE SOUZA -- 1311 -- PT
+DEPUTADO FEDERAL (AC)
+Resumo dos bens:
+Total declarado: R$0,00
+
+
+LÉO DO PT -- 1331 -- PT
+DEPUTADO FEDERAL (AC)
+Resumo dos bens:
+Total declarado: R$160.507,58
+Caderneta de poupança: R$11.184,30
+Veículo automotor terrestre: caminhão, automóvel, moto, etc.: R$24.293,00
+Depósito bancário em conta corrente no País: R$13.981,15
+Casa: R$111.049,13
+
+Tempo gasto no carregamento dos dados dos candidatos: 1.721s
+Tempo gasto no carregamento dos dados dos bens dos candidatos: 1.859s
+
+DR.JENILSON -- 65789 -- PC do B
+DEPUTADO ESTADUAL (AC)
+Resumo dos bens:
+Total declarado: R$120.000,00
+Veículo automotor terrestre: caminhão, automóvel, moto, etc.: R$50.000,00
+Bem relacionado com o exercício da atividade autônoma: R$70.000,00
+
+PROFESSORA CONCEIÇÃO -- 65555 -- PC do B
+DEPUTADO ESTADUAL (AC)
+Resumo dos bens:
+Total declarado: R$2.737.000,00
+Veículo automotor terrestre: caminhão, automóvel, moto, etc.: R$17.000,00
+Casa: R$20.000,00
+Terreno: R$2.700.000,00
+
+MIGUEL DA ROCHA -- 50123 -- PSOL
+DEPUTADO ESTADUAL (AC)
+Resumo dos bens:
+Total declarado: R$211.000,00
+Veículo automotor terrestre: caminhão, automóvel, moto, etc.: R$11.000,00
+Outros bens imóveis: R$200.000,00
+
+PEDRO TELES -- 50222 -- PSOL
+DEPUTADO ESTADUAL (AC)
+Resumo dos bens:
+Total declarado: R$60.000,00
+Outros bens imóveis: R$60.000,00
+
+LENILDA DE SOUZA -- 1311 -- PT
+DEPUTADO FEDERAL (AC)
+Resumo dos bens:
+Total declarado: R$0,00
+
+
+LÉO DO PT -- 1331 -- PT
+DEPUTADO FEDERAL (AC)
+Resumo dos bens:
+Total declarado: R$160.507,58
+Caderneta de poupança: R$11.184,30
+Casa: R$111.049,13
+Depósito bancário em conta corrente no País: R$13.981,15
+Veículo automotor terrestre: caminhão, automóvel, moto, etc.: R$24.293,00
+
+Tempo gasto no carregamento dos dados dos candidatos: 1.763s
+Tempo gasto no carregamento dos dados dos bens dos candidatos: 1.924s
+
+DR.JENILSON -- 65789 -- PC do B
+DEPUTADO ESTADUAL (AC)
+Resumo dos bens:
+Total declarado: R$120.000,00
+Veículo automotor terrestre: caminhão, automóvel, moto, etc.: R$50.000,00
+Bem relacionado com o exercício da atividade autônoma: R$70.000,00
+
+PROFESSORA CONCEIÇÃO -- 65555 -- PC do B
+DEPUTADO ESTADUAL (AC)
+Resumo dos bens:
+Total declarado: R$2.737.000,00
+Terreno: R$2.700.000,00
+Casa: R$20.000,00
+Veículo automotor terrestre: caminhão, automóvel, moto, etc.: R$17.000,00
+
+MIGUEL DA ROCHA -- 50123 -- PSOL
+DEPUTADO ESTADUAL (AC)
+Resumo dos bens:
+Total declarado: R$211.000,00
+Veículo automotor terrestre: caminhão, automóvel, moto, etc.: R$11.000,00
+Outros bens imóveis: R$200.000,00
+
+PEDRO TELES -- 50222 -- PSOL
+DEPUTADO ESTADUAL (AC)
+Resumo dos bens:
+Total declarado: R$60.000,00
+Outros bens imóveis: R$60.000,00
+
+LENILDA DE SOUZA -- 1311 -- PT
+DEPUTADO FEDERAL (AC)
+Resumo dos bens:
+Total declarado: R$0,00
+
+
+LÉO DO PT -- 1331 -- PT
+DEPUTADO FEDERAL (AC)
+Resumo dos bens:
+Total declarado: R$160.507,58
+Depósito bancário em conta corrente no País: R$13.981,15
+Caderneta de poupança: R$11.184,30
+Casa: R$111.049,13
+Veículo automotor terrestre: caminhão, automóvel, moto, etc.: R$24.293,00
+
+Tempo gasto no carregamento dos dados dos candidatos: 1.731s
+Tempo gasto no carregamento dos dados dos bens dos candidatos: 1.893s
+
+DR.JENILSON -- 65789 -- PC do B
+DEPUTADO ESTADUAL (AC)
+Resumo dos bens:
+Total declarado: R$120.000,00
+Bem relacionado com o exercício da atividade autônoma: R$70.000,00
+Veículo automotor terrestre: caminhão, automóvel, moto, etc.: R$50.000,00
+
+PROFESSORA CONCEIÇÃO -- 65555 -- PC do B
+DEPUTADO ESTADUAL (AC)
+Resumo dos bens:
+Total declarado: R$2.737.000,00
+Casa: R$20.000,00
+Veículo automotor terrestre: caminhão, automóvel, moto, etc.: R$17.000,00
+Terreno: R$2.700.000,00
+
+MIGUEL DA ROCHA -- 50123 -- PSOL
+DEPUTADO ESTADUAL (AC)
+Resumo dos bens:
+Total declarado: R$211.000,00
+Outros bens imóveis: R$200.000,00
+Veículo automotor terrestre: caminhão, automóvel, moto, etc.: R$11.000,00
+
+PEDRO TELES -- 50222 -- PSOL
+DEPUTADO ESTADUAL (AC)
+Resumo dos bens:
+Total declarado: R$60.000,00
+Outros bens imóveis: R$60.000,00
+
+LENILDA DE SOUZA -- 1311 -- PT
+DEPUTADO FEDERAL (AC)
+Resumo dos bens:
+Total declarado: R$0,00
+
+
+LÉO DO PT -- 1331 -- PT
+DEPUTADO FEDERAL (AC)
+Resumo dos bens:
+Total declarado: R$160.507,58
+Casa: R$111.049,13
+Caderneta de poupança: R$11.184,30
+Depósito bancário em conta corrente no País: R$13.981,15
+Veículo automotor terrestre: caminhão, automóvel, moto, etc.: R$24.293,00
+
