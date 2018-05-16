@@ -78,7 +78,7 @@ class Trie(object):
         return self.tamanho
 
     def __getitem__(self, key):
-        """Recebi uma chave e verifica se ela existe."""
+        """Recebi uma chave, se ela existir retorna seu valor."""
         return self.buscar(key)
 
     def __setitem__(self, key, value):
@@ -87,3 +87,15 @@ class Trie(object):
         Substituí um valor da árvore de prefixo através da chave fornecida,
         se esse chave não exitir, cria essa chave fornecida para esse valor."""
         self.inserir(key, value)
+
+    def __contains__(self, key):
+        """Verifica se a chave está na árvore de prefixo pelo o in.
+
+        Tenta procura a chave na árvore, se ela existir retorna True,
+        caso contrário o __getitem__ dará KeyError porque a chave não
+        existe resultando no retornado False."""
+        try:
+            self.__getitem__(key)
+            return True
+        except KeyError:
+            return False
